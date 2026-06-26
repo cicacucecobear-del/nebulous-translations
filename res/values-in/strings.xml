@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Apakah Anda yakin?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU"</string>
     <string name="Must_Specify_Name_">"Harus menentukan nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Peringkat dapat berubah ketika menemukan kelompok."</string>
@@ -38,11 +38,11 @@
     <string name="Score__">"Skor: "</string>
     <string name="Recombine_">"Bergabung kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"MENGANGGUR"</string>
+    <string name="IDLE">"MENGANGGUR…"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama telah diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
-    <string name="JOINING___">"BERGABUNG …"</string>
+    <string name="JOINING___">"BERGABUNG…"</string>
     <string name="PLAYING">"BERMAIN"</string>
     <string name="MULTIPLAYER">"MULTIPEMAIN"</string>
 
@@ -107,7 +107,7 @@
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
-    <string name="REFRESH">"MENYEGARKAN"</string>
+    <string name="REFRESH">"MENYEGARKAN…"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
     <string name="ERROR">"RALAT"</string>
