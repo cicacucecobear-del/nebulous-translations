@@ -17,7 +17,7 @@
     <string name="PLAY">"MAIN"</string>
     <string name="OPTIONS">"OPSI"</string>
 
-    <string name="Avatar_">"Skins:"</string>
+    <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nama:"</string>
 
     <string name="Loading___">"Memuat …"</string>
@@ -38,9 +38,9 @@
     <string name="Score__">"Skor: "</string>
     <string name="Recombine_">"Bergabung kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"MENGANGGUR…"</string>
-    <string name="Name_Invalid_">"Nama tidak berlaku."</string>
-    <string name="Name_Taken_">"Nama telah diambil."</string>
+    <string name="IDLE">"MENUNGGU…"</string>
+    <string name="Name_Invalid_">"Nama tidak valid."</string>
+    <string name="Name_Taken_">"Nama sudah digunakan."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
     <string name="JOINING___">"BERGABUNG…"</string>
     <string name="PLAYING">"BERMAIN"</string>
@@ -51,19 +51,19 @@
     <string name="Not_found_">"Tidak ditemukan."</string>
     <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Bergabung permainan di "</string>
+    <string name="Joining_game_in_">"Masuk ke permainan dalam "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
-    <string name="US_East">"Amerika Tengah"</string>
-    <string name="US_West">"Amerika Utara"</string>
+    <string name="US_East">"Amerika Timur"</string>
+    <string name="US_West">"Amerika barat"</string>
     <string name="Europe">"Eropa"</string>
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
     <string name="Background_">"Latar Belakang:"</string>
     <string name="Difficulty_">"Kesulitan:"</string>
-    <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
+    <string name="Delay_Disconnect">"Tunda Putus Koneksi"</string>
     <string name="Max_Players">"Maks Pemain"</string>
-    <string name="Min_Players">"Min Pemain"</string>
-    <string name="OK">"OKE"</string>
+    <string name="Min_Players">"Minimal Pemain"</string>
+    <string name="OK">"OK"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
     <string name="Max_People">"Max Pemain"</string>
@@ -82,11 +82,11 @@
     <string name="Not_signed_in_">"Tidak Login!"</string>
     <string name="SET_NAME">"ATUR NAMA"</string>
     <string name="SIGN_OUT">"LOGOUT"</string>
-    <string name="ACHIEVEMENTS">"PRESTASI"</string>
+    <string name="ACHIEVEMENTS">"Pencapaian"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
     <string name="Information">"Informasi"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk memakai skin ini, Anda harus membuka pencapaian ini"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
     <string name="SIGN_IN">"MASUK"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
@@ -106,14 +106,14 @@
     <string name="Online">"Daring"</string>
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
-    <string name="Achievement_Earned">"Perolehan Prestasi"</string>
+    <string name="Achievement_Earned">"pencapaian diraih"</string>
     <string name="REFRESH">"MENYEGARKAN…"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"RALAT"</string>
+    <string name="ERROR">"kesalahan"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
-    <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
+    <string name="FRIEND_CHAT">"OBROLAN TEMAN"</string>
     <string name="LOBBY_NAME">"NAMA LOBI"</string>
     <string name="NULL">"TIDAK BERLAKU"</string>
     <string name="ALL">"SEMUA"</string>
