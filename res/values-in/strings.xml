@@ -110,7 +110,7 @@
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"kesalahan"</string>
+    <string name="ERROR">"KESALAHAN"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"OBROLAN TEMAN"</string>
