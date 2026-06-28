@@ -38,7 +38,7 @@
     <string name="Score__">"Skor: "</string>
     <string name="Recombine_">"Bergabung kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"MENUNGGU…"</string>
+    <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak valid."</string>
     <string name="Name_Taken_">"Nama sudah digunakan."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
